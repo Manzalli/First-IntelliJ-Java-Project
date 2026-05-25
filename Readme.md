@@ -23,7 +23,7 @@ The system simulates an online course platform:
 
 ## 🎯 Verification Test
 * **Input Data:** Base price = 100 Dollars, Mentorship = 5 hours, Discount = 20 Dollarrs.
-* **Calculation Flow:** * Base Price after discount: 100 - 20 = 80 Reais
+* **Calculation Flow:** * Base Price after discount: 100 - 20 = 80 Dollars
     * Mentorship Cost: 5 hours * 50 = 250 Dollars
     * Total: 80 + 250 = 330 Dollars
 * **Console Output:** `Final Price with Mentorship: 330.0 Reais` ✅
