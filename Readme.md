@@ -22,8 +22,8 @@ The system simulates an online course platform:
 * **`Main` Class:** Instantiates a premium course, applies a discount, and prints out the dynamically calculated final price.
 
 ## 🎯 Verification Test
-* **Input Data:** Base price = 100 Reais, Mentorship = 5 hours, Discount = 20 Reais.
+* **Input Data:** Base price = 100 Dollars, Mentorship = 5 hours, Discount = 20 Dollarrs.
 * **Calculation Flow:** * Base Price after discount: 100 - 20 = 80 Reais
-    * Mentorship Cost: 5 hours * 50 = 250 Reais
-    * Total: 80 + 250 = 330 Reais
+    * Mentorship Cost: 5 hours * 50 = 250 Dollars
+    * Total: 80 + 250 = 330 Dollars
 * **Console Output:** `Final Price with Mentorship: 330.0 Reais` ✅
